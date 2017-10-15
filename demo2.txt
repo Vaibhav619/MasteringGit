@@ -1,1 +1,0 @@
-This is my another demo file showing ho to add new file in git.
